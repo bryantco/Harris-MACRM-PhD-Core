@@ -1,1 +1,1 @@
-# harris-macrm-phd-core
+Repository for materials from the PhD/MACRM core at the Harris School of Public Policy, University of Chicago.
