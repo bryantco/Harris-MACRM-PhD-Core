@@ -10,3 +10,6 @@ Autumn 2021:
 Winter 2022:
 * Advanced Micro II (PPHA 442, **Ashworth**)
 * Applied Econometrics II (PPHA 421, **Grogger**)
+
+Spring 2022:
+* Applied Econometrics III (PPHA 422, **Ito**)
